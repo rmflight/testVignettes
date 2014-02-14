@@ -1,0 +1,21 @@
+<!--
+  %\VignetteEngine{knitr}
+  %\VignetteIndexEntry{test vignette}
+-->
+
+# How to install vignettes
+
+If we are using `devtools`, how do we properly install vignettes without re-building them.
+
+## Why?
+
+Sometimes we have really long running vignettes, and we want someone who installs our software from `github` or another resource to have access to the html vignettes properly.
+
+## How to
+
+```{r install1, eval=FALSE}
+library(devtools)
+build_vignettes()
+install(quick=TRUE)
+```
+
