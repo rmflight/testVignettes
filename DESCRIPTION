@@ -1,5 +1,5 @@
 Package: testvignettes
-Version: 0.0.2
+Version: 0.0.3
 Title: testing keeping vignettes without rebuilding
 Author: Rober M Flight <rflight79@gmail.com>
 Description: I want to test different methods of doing things to get
