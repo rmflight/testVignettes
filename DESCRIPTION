@@ -1,5 +1,5 @@
 Package: testvignettes
-Version: 0.0.5
+Version: 0.0.6
 Title: testing keeping vignettes without rebuilding
 Author: Rober M Flight <rflight79@gmail.com>
 Maintainer: Robert M Flight <rflight79@gmail.com>
