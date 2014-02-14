@@ -1,0 +1,8 @@
+Package: testvignettes
+Version: 0.0.1
+Title: testing keeping vignettes without rebuilding
+Author: Rober M Flight <rflight79@gmail.com>
+Description: I want to test different methods of doing things to get
+        proper installation of vignettes without re-building them. This
+        is to document my efforts.
+License: CC0
